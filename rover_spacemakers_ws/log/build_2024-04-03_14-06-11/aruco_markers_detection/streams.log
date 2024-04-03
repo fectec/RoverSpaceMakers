@@ -1,0 +1,33 @@
+[0.387s] Invoking command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection': PYTHONPATH=/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/prefix_override:/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/aruco_markers_detection build --build-base /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/build install --record /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/install.log --single-version-externally-managed install_data
+[0.508s] running egg_info
+[0.508s] creating ../../build/aruco_markers_detection/aruco_markers_detection.egg-info
+[0.508s] writing ../../build/aruco_markers_detection/aruco_markers_detection.egg-info/PKG-INFO
+[0.509s] writing dependency_links to ../../build/aruco_markers_detection/aruco_markers_detection.egg-info/dependency_links.txt
+[0.509s] writing entry points to ../../build/aruco_markers_detection/aruco_markers_detection.egg-info/entry_points.txt
+[0.509s] writing requirements to ../../build/aruco_markers_detection/aruco_markers_detection.egg-info/requires.txt
+[0.509s] writing top-level names to ../../build/aruco_markers_detection/aruco_markers_detection.egg-info/top_level.txt
+[0.509s] writing manifest file '../../build/aruco_markers_detection/aruco_markers_detection.egg-info/SOURCES.txt'
+[0.510s] reading manifest file '../../build/aruco_markers_detection/aruco_markers_detection.egg-info/SOURCES.txt'
+[0.510s] writing manifest file '../../build/aruco_markers_detection/aruco_markers_detection.egg-info/SOURCES.txt'
+[0.510s] running build
+[0.510s] running build_py
+[0.510s] creating /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/build
+[0.510s] creating /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/build/lib
+[0.510s] creating /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/build/lib/aruco_markers_detection
+[0.511s] copying aruco_markers_detection/__init__.py -> /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/build/lib/aruco_markers_detection
+[0.511s] running install
+[0.511s] running install_lib
+[0.511s] creating /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/python3.10/site-packages/aruco_markers_detection
+[0.511s] copying /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/build/lib/aruco_markers_detection/__init__.py -> /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/python3.10/site-packages/aruco_markers_detection
+[0.512s] byte-compiling /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/python3.10/site-packages/aruco_markers_detection/__init__.py to __init__.cpython-310.pyc
+[0.512s] running install_data
+[0.512s] creating /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/ament_index
+[0.512s] creating /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/ament_index/resource_index
+[0.512s] creating /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/ament_index/resource_index/packages
+[0.512s] copying resource/aruco_markers_detection -> /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/ament_index/resource_index/packages
+[0.512s] copying package.xml -> /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection
+[0.512s] running install_egg_info
+[0.513s] Copying ../../build/aruco_markers_detection/aruco_markers_detection.egg-info to /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/python3.10/site-packages/aruco_markers_detection-0.0.0-py3.10.egg-info
+[0.513s] running install_scripts
+[0.525s] writing list of installed files to '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/install.log'
+[0.546s] Invoked command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection' returned '0': PYTHONPATH=/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/prefix_override:/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/aruco_markers_detection build --build-base /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/build install --record /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/install.log --single-version-externally-managed install_data
