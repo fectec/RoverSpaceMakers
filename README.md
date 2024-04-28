@@ -1,2 +1,2 @@
 # Rover Space Makers
-Navigation system for autonomous rover.
+ROS 2 navigation system for autonomous rover.
