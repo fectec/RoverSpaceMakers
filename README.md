@@ -1,10 +1,10 @@
 # Rover Space Makers
 
-<p align="center">
-  <img src="https://github.com/fectec/RoverSpaceMakers/assets/127822858/fbe39ed3-3b11-4ee0-9bde-d4fdea8a9cb7" alt = "Space Makers Logo" width = "300" height = "300"/>
-</p>
-
 *ROS 2* navigation system for **autonomous rover**. The exploration vehicle is in development for *CIRC* (Canadian International Rover Challenge) *2024*, as part of the activities of the student group *Space Makers*. The competition's objective is to design, build, and operate a rover that can navigate and complete tasks on a simulated Martian surface alongside human settlement. 
+
+<p align="center">
+  <img src="https://github.com/fectec/RoverSpaceMakers/assets/127822858/fbe39ed3-3b11-4ee0-9bde-d4fdea8a9cb7" alt = "Space Makers Logo" width = "200" height = "200"/>
+</p>
 
 ## Aruco markers & GPS localization
 
