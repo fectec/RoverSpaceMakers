@@ -1,0 +1,35 @@
+[0.006s] Invoking command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection -DCMAKE_INSTALL_PREFIX=/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection
+[0.064s] -- The C compiler identification is GNU 11.4.0
+[0.116s] -- The CXX compiler identification is GNU 11.4.0
+[0.123s] -- Detecting C compiler ABI info
+[0.168s] -- Detecting C compiler ABI info - done
+[0.172s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.173s] -- Detecting C compile features
+[0.173s] -- Detecting C compile features - done
+[0.176s] -- Detecting CXX compiler ABI info
+[0.224s] -- Detecting CXX compiler ABI info - done
+[0.228s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.228s] -- Detecting CXX compile features
+[0.228s] -- Detecting CXX compile features - done
+[0.231s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.322s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.386s] -- Configuring incomplete, errors occurred!
+[0.386s] See also "/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/CMakeOutput.log".
+[0.386s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.386s]   By not providing "Findrclpp.cmake" in CMAKE_MODULE_PATH this project has
+[0.386s]   asked CMake to find a package configuration file provided by "rclpp", but
+[0.386s]   CMake did not find one.
+[0.386s] 
+[0.386s]   Could not find a package configuration file provided by "rclpp" with any of
+[0.386s]   the following names:
+[0.386s] 
+[0.386s]     rclppConfig.cmake
+[0.386s]     rclpp-config.cmake
+[0.386s] 
+[0.386s]   Add the installation prefix of "rclpp" to CMAKE_PREFIX_PATH or set
+[0.386s]   "rclpp_DIR" to a directory containing one of the above files.  If "rclpp"
+[0.386s]   provides a separate development package or SDK, be sure it has been
+[0.386s]   installed.
+[0.386s] 
+[0.386s] [0m
+[0.390s] Invoked command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection -DCMAKE_INSTALL_PREFIX=/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection

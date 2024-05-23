@@ -1,0 +1,34 @@
+[01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:48:63:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+   48 |        rclcpp::Publisher<sensor_msgs::msg::Image>::SharedPtr [01;31m[Kpublisher_[m[K
+      |                                                              [01;31m[K^~~~~~~~~~[m[K
+      |                                                                        [32m[K;[m[K
+[01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:[m[K In constructor ‘[01m[KMinimalImagePublisher::MinimalImagePublisher()[m[K’:
+[01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:17:76:[m[K [01;31m[Kerror: [m[Kexpression cannot be used as a function
+   17 |  MinimalImagePublisher() :   Node("minimal_image_publisher",  [01;31m[Kcount_(0)[m[K
+      |                                                               [01;31m[K~~~~~~^~~[m[K
+
+[01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:46:38:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krclcpp::Node::Node()[m[K’
+   46 |         rclcpp::TimerBase::SharedPtr [01;31m[Ktimer_[m[K;
+      |                                      [01;31m[K^~~~~~[m[K
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/single_threaded_executor.hpp:28[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:22[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:3[m[K:
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:1294:3:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Krclcpp::Node::Node(const rclcpp::Node&, const string&)[m[K’
+ 1294 |   [01;36m[KNode[m[K(
+      |   [01;36m[K^~~~[m[K
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:1294:3:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 0 provided
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:101:12:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Krclcpp::Node::Node(const string&, const string&, const rclcpp::NodeOptions&)[m[K’
+  101 |   explicit [01;36m[KNode[m[K(
+      |            [01;36m[K^~~~[m[K
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:101:12:[m[K [01;36m[Knote: [m[K  candidate expects 3 arguments, 0 provided
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:89:12:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Krclcpp::Node::Node(const string&, const rclcpp::NodeOptions&)[m[K’
+   89 |   explicit [01;36m[KNode[m[K(
+      |            [01;36m[K^~~~[m[K
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/node.hpp:89:12:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 0 provided
+[01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:46:44:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K{[m[K’ at end of input
+   46 |         rclcpp::TimerBase::SharedPtr timer_[01;31m[K;[m[K
+      |                                            [01;31m[K^[m[K
+gmake[2]: *** [CMakeFiles/minimal_opencv_ros2_node.dir/build.make:76: CMakeFiles/minimal_opencv_ros2_node.dir/src/minimal_opencv_ros2_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/minimal_opencv_ros2_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

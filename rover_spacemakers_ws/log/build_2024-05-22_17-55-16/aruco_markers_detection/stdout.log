@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target minimal_opencv_ros2_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/minimal_opencv_ros2_node.dir/src/minimal_opencv_ros2_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable minimal_opencv_ros2_node[0m
+[100%] Built target minimal_opencv_ros2_node
+-- Install configuration: ""
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/aruco_markers_detection/minimal_opencv_ros2_node
+-- Set runtime path of "/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/lib/aruco_markers_detection/minimal_opencv_ros2_node" to ""
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/ament_index/resource_index/package_run_dependencies/aruco_markers_detection
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/ament_index/resource_index/parent_prefix_path/aruco_markers_detection
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/environment/ament_prefix_path.sh
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/environment/ament_prefix_path.dsv
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/environment/path.sh
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/environment/path.dsv
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/local_setup.bash
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/local_setup.sh
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/local_setup.zsh
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/local_setup.dsv
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/package.dsv
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/ament_index/resource_index/packages/aruco_markers_detection
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/cmake/aruco_markers_detectionConfig.cmake
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/cmake/aruco_markers_detectionConfig-version.cmake
+-- Installing: /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection/share/aruco_markers_detection/package.xml

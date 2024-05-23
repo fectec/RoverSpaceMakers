@@ -1,0 +1,10 @@
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/uninstall.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/aruco_markers_detection_uninstall.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/minimal_opencv_ros2_node.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/test.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/edit_cache.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/rebuild_cache.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/list_install_components.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/install.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/install/local.dir
+/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection/CMakeFiles/install/strip.dir

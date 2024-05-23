@@ -1,0 +1,8 @@
+[0.006s] Invoking command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection -DCMAKE_INSTALL_PREFIX=/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection
+[0.010s] [31mCMake Error at CMakeLists.txt:31:
+[0.010s]   Parse error.  Expected a command name, got unquoted argument with text
+[0.010s]   "​".
+[0.010s] 
+[0.010s] [0m
+[0.011s] -- Configuring incomplete, errors occurred!
+[0.011s] Invoked command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection -DCMAKE_INSTALL_PREFIX=/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/install/aruco_markers_detection

@@ -1,0 +1,33 @@
+[0.006s] Invoking command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection -- -j12 -l12
+[0.033s] [35m[1mConsolidate compiler generated dependencies of target minimal_opencv_ros2_node[0m
+[0.044s] [ 50%] [32mBuilding CXX object CMakeFiles/minimal_opencv_ros2_node.dir/src/minimal_opencv_ros2_node.cpp.o[0m
+[1.838s] [01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:[m[K In member function ‘[01m[Kvoid MinimalImagePublisher::timer_callback()[m[K’:
+[1.838s] [01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:33:22:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krandu(cv::Mat&, cv::Scalar)[m[K’
+[1.838s]    33 |             [01;31m[Kcv::randu(image, cv::Scalar(0, 0, 0))[m[K, cv::Scalar(255, 255, 25));
+[1.838s]       |             [01;31m[K~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.838s] In file included from [01m[K/usr/include/opencv4/opencv2/core.hpp:3305[m[K,
+[1.838s]                  from [01m[K/usr/include/opencv4/opencv2/core/core.hpp:48[m[K,
+[1.838s]                  from [01m[K/opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge.h:43[m[K,
+[1.838s]                  from [01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:7[m[K:
+[1.838s] [01m[K/usr/include/opencv4/opencv2/core/operations.hpp:406:42:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp> _Tp cv::randu()[m[K’
+[1.838s]   406 | template<typename _Tp> static inline _Tp [01;36m[Krandu[m[K()
+[1.838s]       |                                          [01;36m[K^~~~~[m[K
+[1.838s] [01m[K/usr/include/opencv4/opencv2/core/operations.hpp:406:42:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[1.838s] [01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:33:22:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 2 provided
+[1.838s]    33 |             [01;36m[Kcv::randu(image, cv::Scalar(0, 0, 0))[m[K, cv::Scalar(255, 255, 25));
+[1.839s]       |             [01;36m[K~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.839s] In file included from [01m[K/usr/include/opencv4/opencv2/core/core.hpp:48[m[K,
+[1.839s]                  from [01m[K/opt/ros/humble/include/cv_bridge/cv_bridge/cv_bridge.h:43[m[K,
+[1.839s]                  from [01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:7[m[K:
+[1.839s] [01m[K/usr/include/opencv4/opencv2/core.hpp:2313:19:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid cv::randu(cv::InputOutputArray, cv::InputArray, cv::InputArray)[m[K’
+[1.839s]  2313 | CV_EXPORTS_W void [01;36m[Krandu[m[K(InputOutputArray dst, InputArray low, InputArray high);
+[1.839s]       |                   [01;36m[K^~~~~[m[K
+[1.839s] [01m[K/usr/include/opencv4/opencv2/core.hpp:2313:19:[m[K [01;36m[Knote: [m[K  candidate expects 3 arguments, 2 provided
+[1.844s] [01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:41:13:[m[K [01;31m[Kerror: [m[K‘[01m[Kpublisher[m[K’ was not declared in this scope; did you mean ‘[01m[Kpublisher_[m[K’?
+[1.844s]    41 |             [01;31m[Kpublisher[m[K->publish(*msg_.get());
+[1.844s]       |             [01;31m[K^~~~~~~~~[m[K
+[1.844s]       |             [32m[Kpublisher_[m[K
+[2.815s] gmake[2]: *** [CMakeFiles/minimal_opencv_ros2_node.dir/build.make:76: CMakeFiles/minimal_opencv_ros2_node.dir/src/minimal_opencv_ros2_node.cpp.o] Error 1
+[2.815s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/minimal_opencv_ros2_node.dir/all] Error 2
+[2.815s] gmake: *** [Makefile:146: all] Error 2
+[2.817s] Invoked command in '/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/build/aruco_markers_detection -- -j12 -l12

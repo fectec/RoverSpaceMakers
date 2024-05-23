@@ -1,0 +1,8 @@
+[01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:[m[K In member function ‘[01m[Kvoid MinimalImagePublisher::timer_callback()[m[K’:
+[01m[K/home/fectec151/Downloads/Projects/RoverSpaceMakers/rover_spacemakers_ws/src/aruco_markers_detection/src/minimal_opencv_ros2_node.cpp:41:13:[m[K [01;31m[Kerror: [m[K‘[01m[Kpublisher[m[K’ was not declared in this scope; did you mean ‘[01m[Kpublisher_[m[K’?
+   41 |             [01;31m[Kpublisher[m[K->publish(*msg_.get());
+      |             [01;31m[K^~~~~~~~~[m[K
+      |             [32m[Kpublisher_[m[K
+gmake[2]: *** [CMakeFiles/minimal_opencv_ros2_node.dir/build.make:76: CMakeFiles/minimal_opencv_ros2_node.dir/src/minimal_opencv_ros2_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/minimal_opencv_ros2_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
